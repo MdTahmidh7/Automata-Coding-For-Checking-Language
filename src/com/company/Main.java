@@ -163,7 +163,6 @@ public class Main {
 
 
     public boolean evenNumberOf0_OrExactly2_Ones(String text){
-       // String regx1 ="";
         String text1 ;
         text1 = text;
         int count0=0,count1=0;
